@@ -1,9 +1,0 @@
-com/example/usercrud/mapper/UserMapper.class
-com/example/usercrud/service/UserService.class
-com/example/usercrud/common/Result.class
-com/example/usercrud/entity/User.class
-com/example/usercrud/UserCrudApplication.class
-com/example/usercrud/exception/GlobalExceptionHandler.class
-com/example/usercrud/service/impl/UserServiceImpl.class
-com/example/usercrud/controller/UserController.class
-com/example/usercrud/config/MyBatisPlusConfig.class

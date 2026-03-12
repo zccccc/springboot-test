@@ -1,9 +1,0 @@
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/exception/GlobalExceptionHandler.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/UserCrudApplication.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/mapper/UserMapper.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/entity/User.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/common/Result.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/controller/UserController.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/config/MyBatisPlusConfig.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/service/impl/UserServiceImpl.java
-/home/runner/work/springboot-test/springboot-test/src/main/java/com/example/usercrud/service/UserService.java
